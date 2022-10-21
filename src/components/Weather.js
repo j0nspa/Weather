@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios';
 
-const API_KEY = "f74b0ead913f838087424df06f0dc229";
+// const API_KEY = "f74b0ead913f838087424df06f0dc229"; 
 const ICON_URL = "http://openweathermap.org/img/wn/";
 const API_URL = "https://api.openweathermap.org/data/2.5/weather?";
 
